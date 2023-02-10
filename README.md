@@ -9,3 +9,16 @@
  
  
  - Make front-end apps fast and responsive — Vue’s use of a <strong>Virtual DOM</strong> makes site updates happen only when they need to and incredibly fast when they do
+
+
+Which of the following best describes what a directive is?
+A custom attribute that automatically adds complicated front-end to HTML elements.
+
+Which of the following best describes the purpose of the virtual DOM?
+A mechanism for improving page performance by determining what the browser needs to redraw by comparing two JavaScript obejects representing the previous and current states of the page.
+
+Which of the following best describes what a component is?
+A custom HTML element that will display a specified template with provided information when used.
+
+
+
