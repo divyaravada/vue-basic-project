@@ -12,13 +12,13 @@
 
 
 Which of the following best describes what a directive is?
-A custom attribute that automatically adds complicated front-end to HTML elements.
+- A custom attribute that automatically adds complicated front-end to HTML elements.
 
 Which of the following best describes the purpose of the virtual DOM?
-A mechanism for improving page performance by determining what the browser needs to redraw by comparing two JavaScript obejects representing the previous and current states of the page.
+- A mechanism for improving page performance by determining what the browser needs to redraw by comparing two JavaScript obejects representing the previous and current states of the page.
 
 Which of the following best describes what a component is?
-A custom HTML element that will display a specified template with provided information when used.
+- A custom HTML element that will display a specified template with provided information when used.
 
 
 
