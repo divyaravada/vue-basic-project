@@ -1,7 +1,7 @@
 # vue-basic-project
 
 
- - Make front-end code quicker to write — loading Vue in one line, mustache templates, built-in directives, and re-usable components make Vue easy to read 
+ - Make front-end code quicker to write — loading Vue in one line, mustache templates, built-in <b>directives</b>, and re-usable components make Vue easy to read 
  and easy to write
  
  
